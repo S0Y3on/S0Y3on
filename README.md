@@ -4,7 +4,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;열심히 하는 개발자 소연입니다 ☺️
 
 ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
-✔️ &nbsp;정확한 소통을 위한, **over 커뮤니케이션**과 **over 도큐멘테이션**을 추구합니다.\
+✔️ &nbsp;정확한 소통을 위한, **커뮤니케이션**과 **도큐멘테이션**을 추구합니다.\
 ✔️ &nbsp;가이드 문서, 이슈 트래킹, 배포 히스토리 관리 등 문서 작성 능력이 좋습니다.\
 
 <h3 align="left">🛠 Languages and Tools:</h3>
